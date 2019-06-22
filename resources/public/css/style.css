@@ -1,0 +1,21 @@
+/* some style */
+
+/* Generated, do not modify */
+
+
+@charset "utf-8";
+html,
+body {
+	font: 18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	line-height: 1.4em;
+	background: #EFE3E0;
+	/* background: #eaeaea url('bg.png'); */
+	color: #2E2725;
+	width: 550px;
+	margin: 0 auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}

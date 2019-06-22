@@ -1,0 +1,11 @@
+#+AUTHOR: Bill O'Brien
+#+OPTIONS: toc:nil
+
+* Purpose
+This is a web app to help film photographers understand the Zone System in a contemporary sense. My advice is to skip Ansel Adams' books and take a class from a great teacher like Nick Johnson at New England School of Photography. 
+
+Essentially, you want to expose the film so there's detail in the shadows (clearer parts of the negative). Then you want to control the density of the highlights (dark parts of the negative). If the highlights are really bright compared with the shadows, then you'd back off the development a bit. But if it's a low contrast scene, you'd extend development. That's what the N, N-1, N+1 development means. You have to experiment with your film and developer to figure out development times. 
+
+* Example
+file:./resources/exposure-screen-shot.png
+
