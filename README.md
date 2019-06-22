@@ -1,12 +1,14 @@
 # exposure.core
 
-FIXME: Write a one-line description of your library/project.
+A Zone System calculator for film photography
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+This is a web app to help film photographers understand the Zone System in a contemporary sense. My advice is to skip Ansel Adams' books and take a class from a great teacher like Nick Johnson at New England School of Photography. 
 
-## Development
+Essentially, you want to expose the film so there's detail in the shadows (clearer parts of the negative). Then you want to control the density of the highlights (dark parts of the negative). If the highlights are really bright compared with the shadows, then you'd back off the development a bit. But if it's a low contrast scene, you'd extend development. That's what the N, N-1, N+1 development means. You have to experiment with your film and developer to figure out development times. 
+
+![alt text](./resources/exposure-screen-shot.png "Logo Title Text 1")
 
 To get an interactive development environment run:
 
